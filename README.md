@@ -9,7 +9,7 @@ My current focus lies in JS, Node, HTML, CSS. Through personal projects, coursew
 Skills: JS / HTML / CSS / Node
 
 - 🌱 I’m currently learning ExpressJS 
-- 📫 How to reach me: suzukzkun@gmail.com 
+- 📫 How to reach me: sunzukzkun@gmail.com 
 - 😄 Pronouns: He/Him 
 
 
